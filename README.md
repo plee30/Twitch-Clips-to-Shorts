@@ -5,3 +5,5 @@ Currently works through hard-coded search for a streamer ("broadcaster") in a sp
 
 TODO:
 Change hard-coded streamer, date, # of clips, and camera coordinates to user-inputted
+
+Check out sample video at https://twitter.com/DeadFracture_/status/1694804798917517371
